@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class LongestConsecutiveSequence {
     //Brute force
 //    public static boolean linearSearch(int[] nums, int num){
